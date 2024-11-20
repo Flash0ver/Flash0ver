@@ -13,6 +13,7 @@ Clean _C#_ Coder `&&` Test-driven _.NET_ Developer
 #### Socials
 * X (Twitter): [@0x_F0](https://twitter.com/0x_F0)
 * Mastodon: [@0x_F0@dotnet.social](https://dotnet.social/@0x_F0)
+* Bluesky: [@flash0ver.bsky.social](https://bsky.app/profile/flash0ver.bsky.social)
 * LinkedIn: [Stefan Pölz](https://www.linkedin.com/in/flashover/)
 * Credly: [FlashOver](https://www.credly.com/users/flashover)
 
