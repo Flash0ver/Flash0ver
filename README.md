@@ -11,6 +11,7 @@ Clean _C#_ Coder `&&` Test-driven _.NET_ Developer
 * YouTube: [FlashOWare](https://www.youtube.com/@FlashOWare)
 
 #### Socials
+* Discord: `flash0ver`
 * X (Twitter): [@0x_F0](https://twitter.com/0x_F0)
 * Mastodon: [@0x_F0@dotnet.social](https://dotnet.social/@0x_F0)
 * Bluesky: [@flash0ver.bsky.social](https://bsky.app/profile/flash0ver.bsky.social)
