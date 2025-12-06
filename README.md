@@ -1,9 +1,9 @@
 ### Hello, World! 👋 I’m Stefan
-Clean _C#_ Coder `&&` Test-driven _.NET_ Developer
+I C# .NET; [@Sentry](https://github.com/getsentry) by day; [@FlashOWare](https://github.com/FlashOWare) by night
 
 #### Community
 * [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/4e1fdac2-c755-ed11-9561-000d3a197333) (Developer Technologies)
-* JetBrains Community Contributor (.NET)
+* [JetBrains Community Contributor](https://www.jetbrains.com/lp/jetbrains-community-contributor/) (.NET)
 * Co-organizer of [DotNetDevs.at](https://www.meetup.com/dotnet-austria)
 
 #### Channels
