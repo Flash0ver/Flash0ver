@@ -7,6 +7,7 @@ I C# .NET; [@Sentry](https://github.com/getsentry) by day; [@FlashOWare](https:/
 * Co-organizer of [DotNetDevs.at](https://www.meetup.com/dotnet-austria)
 
 #### Channels
+* Kick: [FlashOWare](https://kick.com/flashoware)
 * Twitch: [FlashOWare](https://www.twitch.tv/flashoware)
 * YouTube: [FlashOWare](https://www.youtube.com/@FlashOWare)
 
