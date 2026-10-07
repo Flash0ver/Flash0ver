@@ -1,5 +1,5 @@
 ### Hello, World! 👋 I’m Stefan
-I C# .NET; [@Sentry](https://github.com/getsentry) by day; [@FlashOWare](https://github.com/FlashOWare) by night
+I C# .NET;
 
 #### Community
 * [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/4e1fdac2-c755-ed11-9561-000d3a197333) (Developer Technologies)
@@ -20,6 +20,7 @@ I C# .NET; [@Sentry](https://github.com/getsentry) by day; [@FlashOWare](https:/
 * Credly: [FlashOver](https://www.credly.com/users/flashover)
 
 #### Dev
+* GitHub Organization: [@FlashOWare](https://github.com/FlashOWare)
 * NuGet: [Flash0ver](https://www.nuget.org/profiles/Flash0ver)
 * Sessionize: [FlashOver](https://sessionize.com/FlashOver)
 * Stack Overflow: [FlashOver](https://stackoverflow.com/users/10167996/flashover)
